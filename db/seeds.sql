@@ -3,3 +3,4 @@ USE burgers_db;
 INSERT INTO burgers (burger_name) VALUES ('Cheesburger Avacado');
 INSERT INTO burgers (burger_name) VALUES ('Bacon Burger');
 INSERT INTO burgers (burger_name) VALUES ('Veggie Burger');
+INSERT INTO burgers (burger_name,devoured) VALUES ('Cheap Burger',1);
